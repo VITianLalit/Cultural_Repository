@@ -1,7 +1,7 @@
-# अपनी भाषा अपनी संस्कृति
+# CULTURAL REPOSITORY
 
 
-**अपनी भाषा अपनी संस्कृति** is a cross-platform Flutter application that translates English sentences and terms into Braj, a local Hindi dialect. The application is designed to be highly responsive, ensuring a seamless user experience across both web and mobile platforms. In addition to its core translation functionality, the app also includes a dictionary feature for learning Braj and a page dedicated to showcasing visualizations of the underlying machine learning model.
+**CULTURAL REPOSITORY** is a cross-platform Flutter application that translates English sentences and terms into Braj, a local Hindi dialect. The application is designed to be highly responsive, ensuring a seamless user experience across both web and mobile platforms. In addition to its core translation functionality, the app also includes a dictionary feature for learning Braj and a page dedicated to showcasing visualizations of the underlying machine learning model.
 
 ## Table of Contents
 - [Introduction](#introduction)
